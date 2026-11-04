@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article it accompanies."
+title: "Code and synthetic data for: Sound methods, unusable results"
+version: 1.0.0
+date-released: 2026-11-04
+license: MIT
+authors:
+  - family-names: "Tatchou Nkouindja"
+    given-names: "Daniel Nathan"
+    affiliation: "University of Ngaoundere"
+  - family-names: "Fendji"
+    given-names: "Jean Louis Ebongue Kedieng"
+    affiliation: "University of Ngaoundere"
+    orcid: "https://orcid.org/0000-0001-9803-6981"
+  - family-names: "Thron"
+    given-names: "Christopher"
+    affiliation: "Texas A&M University-Central Texas"
+  - family-names: "Murena"
+    given-names: "Pierre-Alexandre"
+    affiliation: "Hamburg University of Technology"
+  - family-names: "Atemkeng"
+    given-names: "Marcellin"
+    affiliation: "Rhodes University"

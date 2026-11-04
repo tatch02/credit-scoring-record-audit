@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Results written by the scripts
+analyse/reanalyse/outputs/*
+!analyse/reanalyse/outputs/columns_roles.json
+
+# Confidential records: never committed
+sources/
+data/
+*.xlsx

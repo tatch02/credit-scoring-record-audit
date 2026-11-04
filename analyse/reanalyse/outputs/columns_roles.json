@@ -1,0 +1,38 @@
+{
+  "target": "target",
+  "model_vars": [
+    "Age",
+    "Propriétaire du logement",
+    "Autre activité",
+    "Engagement Chez Confrère",
+    "Traite chez confrère",
+    "Traite mensuelle",
+    "Charges fixes",
+    "Ancienneté dans la profession (Année)",
+    "Actif dans culture pendant les 03 dernières saisons ?",
+    "Justificatifs des activités ?",
+    "Ancienneté à l'institution",
+    "Mouvements confiés sur les 12 derniers mois",
+    "Historique de crédit",
+    "Montant du prêt demandé",
+    "Durée (Mois)",
+    "Nature garantie",
+    "Nature de la culture",
+    "Moralité par rapport au marché",
+    "superficie_ha",
+    "contexte_ord",
+    "apprec_credit_ord",
+    "sans_historique_credit"
+  ],
+  "miss_indicators": [
+    "miss_Revenu_glo",
+    "miss_Taux_d_end"
+  ],
+  "holdout_equity": [
+    "Sexe",
+    "Situation matrimoniale"
+  ],
+  "sensitivity": [
+    "Montant du prêt accordé"
+  ]
+}
