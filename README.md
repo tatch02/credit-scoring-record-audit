@@ -3,7 +3,7 @@
 Analysis code and a synthetic dataset accompanying the article *Sound methods,
 unusable results: a data-collection framework for machine-learning credit
 scoring in Cameroonian agricultural microfinance* (Tatchou Nkouindja, Fendji,
-Thron, Murena and Atemkeng), submitted to *Data & Policy*.
+Thron and Atemkeng), submitted to *Data & Policy*.
 
 ## The study in brief
 
